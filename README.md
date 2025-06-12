@@ -2,7 +2,7 @@
 ✨ Crafting clean & efficient scripts to make life easier
 🛠️ Lover of open-source & creative problem solving
 🌐 Building cool projects & sharing knowledge, one commit at a time
-👨‍💻 Currently automating messaging and exploring backend magic
+👨‍💻 Currently exploring backend magic
 📫 Connect with me for collabs or tech talks!
 <!---
 tilak8923/tilak8923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
